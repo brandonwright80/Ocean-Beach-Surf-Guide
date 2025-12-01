@@ -5,9 +5,11 @@ This project provides a simple, beginner-friendly overview of the key factors th
 ---
 ## Photos
 
-![Birds Eye View](./OB%20SF%20Birds%20Eye%20View.jpg)
-![Ocean Beach SF](./OB%20SF.jpeg)
-![Fort Point](./Surfline-EPK-Surf-Poster-Fort-Point_1024x1024.webp)
+<p float="left">
+  <img src="OB%20SF%20Birds%20Eye%20View.jpg" width="300" />
+  <img src="OB%20SF.jpeg" width="300" />
+  <img src="Surfline-EPK-Surf-Poster-Fort-Point_1024x1024.webp" width="300" />
+</p>
 
 ## 📌 Main Variables That Impact Surf Conditions
 
