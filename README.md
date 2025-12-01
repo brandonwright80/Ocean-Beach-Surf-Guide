@@ -3,7 +3,11 @@
 This project provides a simple, beginner-friendly overview of the key factors that influence surf conditions at Ocean Beach, San Francisco. It’s designed for anyone wanting to understand why the waves can change so much day-to-day.
 
 ---
-![Ocean Beach surf](OB SF Birds Eye View.jpg)
+## Photos
+
+[Birds Eye View](./OB%20SF%20Birds%20Eye%20View.jpg)
+![Ocean Beach SF](./OB%20SF.jpeg)
+![Fort Point](./Surfline-EPK-Surf-Poster-Fort-Point_1024x1024.webp)
 
 ## 📌 Main Variables That Impact Surf Conditions
 
