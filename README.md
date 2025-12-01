@@ -5,7 +5,7 @@ This project provides a simple, beginner-friendly overview of the key factors th
 ---
 ## Photos
 
-[Birds Eye View](./OB%20SF%20Birds%20Eye%20View.jpg)
+![Birds Eye View](./OB%20SF%20Birds%20Eye%20View.jpg)
 ![Ocean Beach SF](./OB%20SF.jpeg)
 ![Fort Point](./Surfline-EPK-Surf-Poster-Fort-Point_1024x1024.webp)
 
