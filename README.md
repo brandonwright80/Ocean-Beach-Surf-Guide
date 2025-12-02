@@ -1,6 +1,6 @@
 # 🌊 Ocean Beach Surf Conditions Guide
 
-This project provides a simple, beginner-friendly overview of the key factors that influence surf conditions at Ocean Beach, San Francisco. It’s designed for anyone wanting to understand why the waves can change so much day-to-day.
+This project provides a simple, beginner-friendly overview of the key factors that influence surf conditions at Ocean Beach, San Francisco. It’s designed for anyone wanting to understand why the waves can change so much day-to-day.  I plan to add more content overtime using AI prediction models 🏄🏻
 
 ---
 ## Photos
