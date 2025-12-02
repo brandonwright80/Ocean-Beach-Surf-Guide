@@ -42,7 +42,7 @@ This project provides a simple, beginner-friendly overview of the key factors th
 
 ### 6. Water Temperature
 - Typically 50–57°F most of the year.
-- Wetsuit required.
+- Wetsuit required. 5/4 during Winter/Fall and 4/3 Summer and Spring
 
 ---
 
