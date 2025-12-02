@@ -70,9 +70,8 @@ This project provides a simple, beginner-friendly overview of the key factors th
 
 - `README.md` → This guide  
 - `data/example_days.csv` → Sample surf condition data  
-- `images/` → Optional photos or diagrams  
+- `images/` → surf photos of OB  
 
-More content will be added over time.
 
 ---
 
