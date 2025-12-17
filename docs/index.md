@@ -1,3 +1,4 @@
+![Ocean Beach](assets/images/your-photo.jpg)
 ---
 title: Home
 ---
