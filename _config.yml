@@ -1,0 +1,10 @@
+title: Ocean Beach Surf Guide
+description: A simple surf guide + lightweight analytics and AI notes
+theme: minima
+
+header_pages:
+  - basics.md
+  - live-forecast.md
+  - model.md
+  - safety.md
+  - data-sources.md
