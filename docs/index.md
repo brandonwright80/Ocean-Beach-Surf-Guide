@@ -13,7 +13,7 @@ Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others un
        alt="Waves at Ocean Beach San Francisco" 
        width="25%" />
 
-<img src="assets/images/OB SF.jpeg" 
+<img src="assets/images/Surfline-EPK-Surf-Poster-Fort-Point_1024x1024.webp" 
        alt="Waves at Ocean Beach San Francisco" 
        width="25%" />
 
