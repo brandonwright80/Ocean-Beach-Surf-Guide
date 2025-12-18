@@ -7,11 +7,11 @@ Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others un
 
   <img src="assets/images/OB SF Birds Eye View.jpg" 
        alt="Ocean Beach sunrise" 
-       width="45%" />
+       width="25%" />
 
   <img src="assets/images/OB SF.jpeg" 
        alt="Waves at Ocean Beach San Francisco" 
-       width="45%" />
+       width="25%" />
 
 </div>
 
