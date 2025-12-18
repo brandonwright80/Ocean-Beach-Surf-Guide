@@ -9,7 +9,7 @@ Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others un
        alt="Ocean Beach sunrise" 
        width="45%" />
 
-  <img src="assets/images/OB SF.jpg" 
+  <img src="assets/images/OB SF.jpeg" 
        alt="Waves at Ocean Beach San Francisco" 
        width="45%" />
 
