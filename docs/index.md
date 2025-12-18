@@ -13,6 +13,10 @@ Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others un
        alt="Waves at Ocean Beach San Francisco" 
        width="25%" />
 
+<img src="assets/images/OB SF.jpeg" 
+       alt="Waves at Ocean Beach San Francisco" 
+       width="25%" />
+
 </div>
 
 
