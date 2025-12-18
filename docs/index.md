@@ -5,11 +5,11 @@ Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others un
 
 <div style="display: flex; gap: 12px; margin-top: 16px; flex-wrap: wrap;">
 
-  <img src="assets/images/ocean-beach-sunrise.jpg" 
+  <img src="assets/images/OB SF Birds Eye View.jpg" 
        alt="Ocean Beach sunrise" 
        width="45%" />
 
-  <img src="assets/images/ocean-beach-waves.jpg" 
+  <img src="assets/images/OB SF.jpg" 
        alt="Waves at Ocean Beach San Francisco" 
        width="45%" />
 
