@@ -3,6 +3,23 @@ Title: Surf Smarter at Ocean Beach - A beginner’s guide powered by data & AI
 ---
 Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others understand what drives surf conditions at Ocean Beach, San Francisco.
 
+<div style="display: flex; gap: 12px; margin-top: 16px; flex-wrap: wrap;">
+
+  <img src="assets/images/ocean-beach-sunrise.jpg" 
+       alt="Ocean Beach sunrise" 
+       width="45%" />
+
+  <img src="assets/images/ocean-beach-waves.jpg" 
+       alt="Waves at Ocean Beach San Francisco" 
+       width="45%" />
+
+</div>
+
+
+
+
+
+
 ## Fascinating Ocean Beach History
 
 - **Ocean Beach used to have amusement parks 🎡**  
