@@ -1,11 +1,7 @@
-![Ocean Beach](assets/images/your-photo.jpg)
----
-title: Home
----
 
-# Ocean Beach Surf Guide
-
-A beginner-friendly guide to what drives surf conditions at Ocean Beach, San Francisco.
+Title: Surf Smarter at Ocean Beach - A beginner’s guide powered by data & AI
+---
+Hi my name is Brandon and I love to surf so much that I'm creating a beginner-friendly guide to what drives surf conditions at Ocean Beach, San Francisco.
 
 ## Pages
 - [Basics](basics)
