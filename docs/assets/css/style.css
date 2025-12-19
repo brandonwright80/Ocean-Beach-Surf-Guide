@@ -1,3 +1,25 @@
+/* Ocean / sea-green theme */
 body {
-  background-color: #fff9e6; /* soft light yellow */
+  background-color: #e6f4f1; /* light sea green */
+}
+
+/* Main content card (keeps text readable) */
+.page-content {
+  background-color: #ffffff;
+  padding: 24px;
+  border-radius: 12px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #0f766e; /* deep teal */
+}
+
+/* Links */
+a {
+  color: #0d9488;
+}
+
+a:hover {
+  color: #115e59;
 }
