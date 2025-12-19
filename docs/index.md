@@ -11,7 +11,7 @@ Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others un
        alt="Ocean Beach birds eye view"
        style="width:32%; height:auto; border-radius:8px;" />
 
-  <img src="{{ '/assets/images/OB%20SF.jpeg' | relative_url }}"
+  <img src="{{ '/assets/images/OB SF.jpeg' | relative_url }}"
        alt="Waves at Ocean Beach San Francisco"
        style="width:32%; height:auto; border-radius:8px;" />
 
