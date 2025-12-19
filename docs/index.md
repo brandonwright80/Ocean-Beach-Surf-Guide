@@ -7,7 +7,7 @@ Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others un
 
 <div style="display:flex; gap:12px; margin-top:16px; flex-wrap:nowrap;">
 
-  <img src="{{ '/assets/images/OB%20SF%20Birds%20Eye%20View.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/OB SF Birds Eye View.jpg' | relative_url }}"
        alt="Ocean Beach birds eye view"
        style="width:32%; height:auto; border-radius:8px;" />
 
