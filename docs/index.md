@@ -1,28 +1,25 @@
 
-Title: Surf Smarter at Ocean Beach - A beginner’s guide powered by data & AI
 ---
+title: Surf Smarter at Ocean Beach - A beginner’s guide powered by data & AI
+---
+
 Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others understand what drives surf conditions at Ocean Beach, San Francisco.
 
-<div style="display: flex; gap: 12px; margin-top: 16px; flex-wrap: wrap;">
+<div style="display:flex; gap:12px; margin-top:16px; flex-wrap:nowrap;">
 
-  <img src="assets/images/OB SF Birds Eye View.jpg" 
-       alt="Ocean Beach sunrise" 
-       width="25%" />
+  <img src="{{ '/assets/images/OB%20SF%20Birds%20Eye%20View.jpg' | relative_url }}"
+       alt="Ocean Beach birds eye view"
+       style="width:32%; height:auto; border-radius:8px;" />
 
-  <img src="assets/images/OB SF.jpeg" 
-       alt="Waves at Ocean Beach San Francisco" 
-       width="25%" />
+  <img src="{{ '/assets/images/OB%20SF.jpeg' | relative_url }}"
+       alt="Waves at Ocean Beach San Francisco"
+       style="width:32%; height:auto; border-radius:8px;" />
 
-<img src="assets/images/Surfline-EPK-Surf-Poster-Fort-Point_1024x1024.webp" 
-       alt="Waves at Ocean Beach San Francisco" 
-       width="25%" />
+  <img src="{{ '/assets/images/Surfline-EPK-Surf-Poster-Fort-Point_1024x1024.webp' | relative_url }}"
+       alt="Surf poster"
+       style="width:32%; height:auto; border-radius:8px;" />
 
 </div>
-
-
-
-
-
 
 ## Fascinating Ocean Beach History
 
@@ -34,7 +31,6 @@ Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others un
 
 - **Ocean Beach runs about 3.5 miles along San Francisco’s west side 🚴**  
   The Great Highway follows the coastline from Cliff House to Fort Funston.
-
 
 ## Pages
 - [Basics](basics)
