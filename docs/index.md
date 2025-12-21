@@ -9,15 +9,15 @@ Hi, I’m Brandon, a local surfer who created this guide to help beginners feel 
 
   <img src="{{ '/assets/images/OB SF Birds Eye View.jpg' | relative_url }}"
        alt="Ocean Beach birds eye view"
-       style="width:32%; height:auto; border-radius:8px;" />
+       style="width:20%; height:auto; border-radius:8px;" />
 
   <img src="{{ '/assets/images/OB SF.jpeg' | relative_url }}"
        alt="Waves at Ocean Beach San Francisco"
-       style="width:32%; height:auto; border-radius:8px;" />
+       style="width:20%; height:auto; border-radius:8px;" />
 
   <img src="{{ '/assets/images/Surfline-EPK-Surf-Poster-Fort-Point_1024x1024.webp' | relative_url }}"
        alt="Surf poster"
-       style="width:32%; height:auto; border-radius:8px;" />
+       style="width:20%; height:auto; border-radius:8px;" />
 
 </div>
 
