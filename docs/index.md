@@ -3,7 +3,7 @@
 # **Surf Smarter at Ocean Beach – A beginner’s guide powered by data & AI**
 ---
 
-Hi, I’m Brandon, a surfer building a beginner-friendly guide to help others understand what drives surf conditions at Ocean Beach, San Francisco.
+Hi, I’m Brandon, a local surfer who created this guide to help beginners feel more confident surfing Ocean Beach by understanding the conditions before they paddle out.
 
 <div style="display:flex; gap:12px; margin-top:16px; flex-wrap:nowrap;">
 
