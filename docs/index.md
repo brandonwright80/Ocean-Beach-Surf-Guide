@@ -1,6 +1,6 @@
 
 ---
-# **Surf Smarter at Ocean Beach – A beginner’s guide powered by data & AI**
+# **Surf Smarter at Ocean Beach, San Francisco – A beginner’s guide powered by data & AI**
 ---
 
 Hi, I’m Brandon, a local surfer who created this guide to help beginners feel more confident surfing Ocean Beach by understanding the conditions before they paddle out.
