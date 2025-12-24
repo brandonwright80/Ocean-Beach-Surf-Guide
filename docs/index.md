@@ -5,6 +5,8 @@
 
 Hi, I’m Brandon, a local surfer who created this guide to help beginners feel more confident surfing Ocean Beach by understanding the conditions before they paddle out.
 
+{% include daily-summary.md %}
+
 <div style="display:flex; gap:12px; margin-top:16px; flex-wrap:nowrap;">
 
   <img src="{{ '/assets/images/OB SF Birds Eye View.jpg' | relative_url }}"
